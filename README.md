@@ -1,13 +1,13 @@
 # 💫 Hi 👋, I'am Vinayak Phuse
 Data Analyst  |  AI & ML Engineer  |  BI Developer
 
-Email Me 👉 ✉️ **phusevinayak2004@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ phusevinayak2004@gmail.com For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently work in websums software private limited as an AI & Ml Engineer 
-- 🌱 **I’m currently learning: **Data Science and Analyst
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me: **phusevinayak2004@gmail.com
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+- 🔭 I’m currently work in websums software private limited as an AI & Ml Engineer 
+- 🌱 I’m currently learning: Data Science and Analyst
+- 💬 Ask me about: Collaboration, Tech Support
+- 📫 How to reach me: phusevinayak2004@gmail.com
+- ⚡ Fun fact: I Love Tech and Tech Love Me
 
 
 ## 🏆 GitHub Trophies
